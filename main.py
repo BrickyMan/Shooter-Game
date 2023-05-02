@@ -77,6 +77,7 @@ ship = Player('rocket.png', 5, 400, 80, 100, 10)
 
 # Группа для спрайтов выстрелов
 bullets = sprite.Group()
+print()
 
 # Группа для спрайтов противников
 enemies = sprite.Group()
